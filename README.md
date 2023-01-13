@@ -4,9 +4,9 @@
 ---
  
 ## Welcome
-
-![Smiley Dev's github stats](https://gh-stats-gen.vercel.app/api?username=Kari1217&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
-![Smiley Dev's github langs](https://gh-stats-gen.vercel.app/api/top-langs/?username=Kari1217&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
+![Kari Brooks's github stats](https://github-readme-stats.vercel.app/api?username=Kari1217&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
+![Kari Brooks's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Kari1217&theme=vue-dark&hide_border=true)
+![Kari Brooks's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kari1217&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
 
 ### 🙋🏽‍♂️About Me
 I'm a software engineer, a passionate learner and an aspiring content creator. What is noteworthy in my career is the development of fresh and popular websites. I am always sensitive to modern technologies and open to new things. What is unique about my way of working is that I understand and embody the needs of customers and be creative on their own. It is my greatest pleasure to build trust with all my customers. So my goal is to be the perfect customer-oriented engineer.
